@@ -28,4 +28,9 @@ resource google_container_node_pool "custom_node_pool" {
   node_config {
     image_type = "Ubuntu"
   }
+  node_config {
+    workload_metadata_config {
+      node_metadata = "GKE_METADATA_SERVER"
+    }
+  }
 }
