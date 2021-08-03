@@ -1,5 +1,4 @@
 # TerraGoat - Vulnerable Terraform Infrastructure
-
 [![Maintained by Bridgecrew.io](https://img.shields.io/badge/maintained%20by-bridgecrew.io-blueviolet)](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=terragoat)
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/bridgecrewio/terragoat/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fterragoat&benchmark=INFRASTRUCTURE+SECURITY)
 [![CIS Azure](https://www.bridgecrew.cloud/badges/github/bridgecrewio/terragoat/cis_azure)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fterragoat&benchmark=CIS+AZURE+V1.1)
@@ -9,6 +8,7 @@
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.12.0-blue.svg) 
 [![slack-community](https://slack.bridgecrew.io/badge.svg)](https://slack.bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=terragoat)
 
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=INFRASTRUCTURE+SECURITY)
 
 TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
 ![Terragoat](terragoat-logo.png)
