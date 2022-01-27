@@ -1,13 +1,17 @@
 # TerraGoat - Vulnerable Terraform Infrastructure
-[![Maintained by Bridgecrew.io](https://img.shields.io/badge/maintained%20by-bridgecrew.io-blueviolet)](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=terragoat)
-[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/cis_aws)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=CIS+AWS+V1.2)
-
-[![CIS Azure](https://www.bridgecrew.cloud/badges/github/bridgecrewio/terragoat/cis_azure)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fterragoat&benchmark=CIS+AZURE+V1.1)
-[![PCI](https://www.bridgecrew.cloud/badges/github/bridgecrewio/terragoat/pci)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fterragoat&benchmark=PCI-DSS+V3.2)
-![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.12.0-blue.svg) 
-[![slack-community](https://slack.bridgecrew.io/badge.svg)](https://slack.bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=terragoat)
-
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=INFRASTRUCTURE+SECURITY)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/cis_azure)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=CIS+AZURE+V1.1)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/cis_aws)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=CIS+AWS+V1.2)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/cis_azure_13)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=CIS+AZURE+V1.3)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/pci)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=PCI-DSS+V3.2)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/nist)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=NIST-800-53)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/iso)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=ISO27001)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/soc2)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=SOC2)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/hipaa)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=HIPAA)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/pci_dss_v321)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=PCI-DSS+V3.2.1)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/cis_docker_12)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=CIS+DOCKER+V1.2)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/cis_kubernetes)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=CIS+KUBERNETES+V1.5)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/tplisson/terragoat/cis_kubernetes_16)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=tplisson%2Fterragoat&benchmark=CIS+KUBERNETES+V1.6)
 
 TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
 ![Terragoat](terragoat-logo.png)
