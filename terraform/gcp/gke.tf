@@ -19,6 +19,9 @@ resource "google_container_cluster" "workload_cluster" {
       cidr_block = "0.0.0.0/0"
     }
   }
+  network_policy {
+    enabled = true
+  }
 }
 
 resource google_container_node_pool "custom_node_pool" {
